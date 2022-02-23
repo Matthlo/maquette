@@ -1,0 +1,9 @@
+.divFooter{
+    text-align: center;
+}
+
+.separator{
+    margin-bottom: 2%;
+    padding-top: 2%;
+    border-top: solid #535559 1px;
+}

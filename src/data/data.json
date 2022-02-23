@@ -1,0 +1,27 @@
+{
+  "title": "Make business with us & become beautiful",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.  ",
+  "services": [
+    {
+      "id": "01",
+      "name": "Windows Cleaning",
+      "description": "Window cleaning, or window washing, is the exterior cleaning of architectural glass.",
+      "img": ""
+    },
+    {
+      "id": "02",
+      "name": "Roof Washing",
+      "description": "Commercial work is contracted variously from in-person transactions for cash.",
+      "img": ""
+    }
+  ],
+  "titleDigital": "Best Digital Marketing Solution",
+  "descDigital": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum Lorem ipsum dolor sit amet, hendrerit mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte.",
+  "pointOne":"Hendrerit omittantur mel,es vidit eu lorem animal.",
+  "pointTwo":"The best marketing company to boost your web",
+  "pointTree":"The Secrets to Successful About Hexan",
+  "titleForMail": "Get in Touch",
+  "placeholderMail": "Mail",
+  "buttonForMail": "SUBMIT",
+  "license": "© all Rights Reserved theme by Hexan"
+}
