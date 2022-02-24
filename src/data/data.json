@@ -24,5 +24,7 @@
   "buttonForMail": "SUBMIT",
   "license": "© all Rights Reserved theme by Hexan",
   "titleContact": "Contact",
-  "desctContact": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum"
+  "desctContact": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum",
+  "titleServices": "Services",
+  "descServices" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod Lorem ipsum"
 }

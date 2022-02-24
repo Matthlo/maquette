@@ -4,15 +4,6 @@
     margin: 0 auto;
   }
   
-  .titre {
-    font-size: 53px;
-    font-weight: 700;
-    color: #3f3f3f;
-    padding: 15px 0 0 0;
-    border-top: solid 10px #fb4275;
-    width: 50px;
-  }
-  
   .titreAndsub {
     width: 100vh;
   }
