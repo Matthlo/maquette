@@ -1,8 +1,7 @@
 import "./card.css";
-const Card = ({ id, name, description, img }) => (
+const Card = ({ id, name, description}) => (
   <div key={id} className="cardContent">
     <div className="card-header">
-    <img src={img}/>
       <p className="cardNumberCard">{id}</p>
     </div>
     <div className="cardRight">
