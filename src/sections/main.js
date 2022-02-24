@@ -18,11 +18,6 @@ function Main() {
         <img className="divMainImage" src={headerImg} alt="headerImg" />
       </div>
     </div>
-    <div>
-          {data.services.map(({ name, description, id }) => (
-            <Card key={id} name={name} description={description} id={id}/>
-          ))}
-        </div>
     </div>
   );
 }

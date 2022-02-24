@@ -5,15 +5,14 @@ import "../components/button.css"
 function Contact() {
   return (
     <div>
-    <div className="headerTitle">
+    <div className="otherTitle">
     <p>{data.titleContact}</p>
     </div>
+    <p className="divMainText">{data.desctContact}</p>
     <form name="contact" method="POST" data-netlify="true">
           <input type="hidden" name="form-name" value="contact"/>
           <p>
             <label><input type="Mail" name="email" placeholder={data.placeholderMail} className="buttonContours" /></label>
-          </p>
-          <p>
             <button type="submit" className="buttonCircle">{data.buttonForMail}</button>
           </p>
         </form>

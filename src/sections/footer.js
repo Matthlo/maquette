@@ -4,7 +4,7 @@ import "./footer.css"
 
 function Footer() {
   return (
-    <div className="separator">
+    <div className="">
     <img src={images} alt="Logo" />
     <div className="divFooter">
       <p>{data.license}</p>

@@ -1,0 +1,38 @@
+.services {
+    padding: 250px 0 20px 0;
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .titre {
+    font-size: 53px;
+    font-weight: 700;
+    color: #3f3f3f;
+    padding: 15px 0 0 0;
+    border-top: solid 10px #fb4275;
+    width: 50px;
+  }
+  
+  .titreAndsub {
+    width: 100vh;
+  }
+  
+  .subtitle {
+    font-size: 15px;
+    color: #3f3f3f;
+  }
+  
+  .services-card {
+    display: flex;
+  }
+  
+  
+  .services-titre {
+    font-size: 15px;
+    font-weight: 700;
+    margin: 10px 0 20px 0;
+  }
+  
+  .services-text {
+    color: #999;
+  }
