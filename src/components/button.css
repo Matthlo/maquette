@@ -9,3 +9,29 @@
     font-size: 15px;
     margin-left: 1%;
   }
+
+  .buttonCircle {
+    background-color: #fb4275 ;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 1%;
+    border-radius: 75px;
+  }
+
+  .buttonContours {
+    background-color: none ;
+    border: solid;
+    color: #fb4275;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 1%;
+    border-radius: 75px;
+  }
